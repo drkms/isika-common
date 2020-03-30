@@ -12,3 +12,5 @@ Isika Common repository for the first week
 # Insert de Sofia
 => ( ͡° ͜ʖ ͡°)
 
+# Insert de Camille !
+=> %%%
