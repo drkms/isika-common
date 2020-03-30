@@ -14,3 +14,6 @@ Isika Common repository for the first week
 
 # Insert de Camille !
 => %%%
+
+# Insert HTTPS !
+=> hell yeah !
