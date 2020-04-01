@@ -18,7 +18,4 @@ Isika Common repository for the first week
 # Insert HTTPS !
 => hell yeah !
 
-# Insert devant tout le monde
-=> grosse pression
-
 # Insert pour Jenkins
